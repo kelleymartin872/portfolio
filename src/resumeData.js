@@ -91,25 +91,25 @@ let resumeData = {
         "name":"MERN memories",
         "description":"Full Stack Development",
         "imgurl":"images/portfolio/1.png",
-        "url" : "https://google.com"
+        "url" : "https://github.com/kelleymartin872/super-adventure"
       },
       {
         "name":"E-Commerece",
         "description":"Full Stack Development",
         "imgurl":"images/portfolio/2.png",
-        "url" : "https://google.com"
+        "url" : "https://github.com/kelleymartin872/e-commerece-webshop"
       },
       {
         "name":"WebRTC App",
         "description":"Full Stack Development",  
         "imgurl":"images/portfolio/3.jpg",
-        "url" : "https://google.com"
+        "url" : "https://github.com/kelleymartin872/reimagined-octo-fortnight"
       },
       {
         "name":"Unichat",
         "description":"Full Stack Development",
         "imgurl":"images/portfolio/4.jpg",
-        "url" : "https://google.com"
+        "url" : "https://github.com/kelleymartin872/cuddly-enigma"
       }
     ],
     "testimonials":[
