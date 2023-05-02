@@ -77,7 +77,6 @@ export default class Resume extends Component {
             <div id="skills">
               <Container className="container-box rounded">
                 <Slide bottom duration={500}>
-                  <hr />
                   <Skills />
                 </Slide>
               </Container>

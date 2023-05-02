@@ -149,26 +149,26 @@ export const skills = {
   //     skillName: "GitHub Pages",
   //   },
   //],
-  programmingLanguages: [
-    {
-      link: "https://www.javascript.com/",
-      imgAltText: "JavaScript",
-      imgSrc: L_JAVASCRIPT,
-      skillName: "English",
-    },
-    {
-      link: "https://www.typescriptlang.org/",
-      imgAltText: "TypeScript",
-      imgSrc: L_TYPESCRIPT,
-      skillName: "Chinese",
-    },
-    // {
-    //   link: "https://golang.org/",
-    //   imgAltText: "Golang",
-    //   imgSrc: L_GOLANG,
-    //   skillName: "Golang",
-    // },
-  ],
+  // programmingLanguages: [
+  //   {
+  //     link: "https://www.javascript.com/",
+  //     imgAltText: "JavaScript",
+  //     imgSrc: L_JAVASCRIPT,
+  //     skillName: "English",
+  //   },
+  //   {
+  //     link: "https://www.typescriptlang.org/",
+  //     imgAltText: "TypeScript",
+  //     imgSrc: L_TYPESCRIPT,
+  //     skillName: "Chinese",
+  //   },
+  //   // {
+  //   //   link: "https://golang.org/",
+  //   //   imgAltText: "Golang",
+  //   //   imgSrc: L_GOLANG,
+  //   //   skillName: "Golang",
+  //   // },
+  // ],
   databases: [
     {
       link: "https://www.microsoft.com/en-us/sql-server/sql-server-2019",
