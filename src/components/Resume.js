@@ -54,7 +54,7 @@ export default class Resume extends Component {
                       <p className="info">
                         {item.specialization}
                         <span>&bull;</span> <em className="date">{item.StartDate} - {item.EndDate}</em></p>
-                      <div>
+                      <div align = "left">
                         {aches}
                       </div>
                     </div>
